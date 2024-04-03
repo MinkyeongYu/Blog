@@ -1,17 +1,22 @@
 ---
 layout: about
 image: /assets/img/blog/hydejack-9.jpg
+
 description: >
-  A boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  
 hide_description: true
 redirect_from:
   - /download/
 ---
 
 # About
+<span style="font-size: 170%; font-weight: bold">
+유민경
+<br></span>
+<span style="font-family:Arial">Majored in Computer Software<br></span>
+<span style="font-family:Arial">Namseoul Univ. [Graduated 2024.02]<br></span>
+<span style="font-family:Arial">Learning CS, UE5, Unity, C++, C#, js, Blender, Pixel Art, and etc..</span>
 
-<!--author-->
 
 ## Hydejack
 
